@@ -10,6 +10,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/appointments")
 public class AppointmentController {
+    //kj nknkj
     private final AppointmentService appointmentService;
 
     // ✅ Добавлен конструктор
